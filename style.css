@@ -1,0 +1,19 @@
+.L_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.L_head i
+{float: right;}
+ 
+.achievevements_text span
+{
+   color: orange;
+}
+
+#poo
+{
+    margin: center;
+}
